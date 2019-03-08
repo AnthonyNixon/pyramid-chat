@@ -136,5 +136,5 @@ func postMessage (c *gin.Context) {
 }
 
 func signUp(c *gin.Context) {
-
+	// https://www.sohamkamani.com/blog/2018/02/25/golang-password-authentication-and-storage/
 }
